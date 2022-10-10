@@ -1,0 +1,44 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+body {
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  background-image: url(../images/bgtile.png);
+}
+
+#phones {
+  padding: 30px 30px;
+}
+
+article {
+  display: flex;
+}
+
+#section1 {
+  display: inline;
+}
+
+.frame-menu {
+  background-image: url(../images/frame.png);
+}
+
+picture {
+  padding: 20px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin-top: 60px
+}
